@@ -1,0 +1,22 @@
+{
+  "name": "quick-one",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AdamIverson/quick-one.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AdamIverson/quick-one/issues"
+  },
+  "homepage": "https://github.com/AdamIverson/quick-one#readme",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
